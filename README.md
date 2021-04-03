@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/scene.jpg">
+<img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/scene2.jpg">
 
 # Hey, I'm Gang Xu! :cherries:
 

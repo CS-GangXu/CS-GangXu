@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img width="1060" height="200"  src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/anime2.gif">
-</p>
-
-# Hey, I'm Gang Xu! :cherries:
+# Hey, I'm Gang Xu! :wave:
 
 ### About Me
 I am a PhD student at the Media Computing Lab of Nankai University. My research interests include Computer Vision and Deep Learning.

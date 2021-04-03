@@ -1,7 +1,9 @@
 # Hey, I'm Gang Xu! :cherries:
 
 ### About Me
-I am a PhD student at Nankai University. My research interests include Computer Vision and Deep Learning. Feel free to contact me with my [Email](gangxu@mail.nankai.edu.cn).
+I am a PhD student at the Media Computing Lab of Nankai University
+
+My research interests include Computer Vision and Deep Learning. Feel free to contact me with my [Email](gangxu@mail.nankai.edu.cn).
 
 ### Education
 - 2018.09--Now: Ph.D. Student., College of Computer Science, Nankai University.

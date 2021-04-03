@@ -1,7 +1,5 @@
 # Hey, I'm Gang Xu! :cherries:
 
-![image](https://github.com/CS-GangXu/CS-GangXu/blob/main/dragon2.png)
-
 ### About Me
 I am a PhD student at Nankai University. My research interests include Computer Vision and Deep Learning. Feel free to contact me with my [Email](gangxu@mail.nankai.edu.cn).
 

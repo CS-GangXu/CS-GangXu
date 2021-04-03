@@ -1,4 +1,4 @@
-![image](https://github.com/CS-GangXu/CS-GangXu/blob/main/cat2.png)
+![image](https://github.com/CS-GangXu/CS-GangXu/blob/main/cat.png)
 
 # Hey, I'm Gang Xu! :cherries:
 

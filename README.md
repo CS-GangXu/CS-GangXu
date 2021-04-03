@@ -1,3 +1,5 @@
+![image](https://pic4.zhimg.com/80/v2-0ed57c3bfeeefb7122b4d76ec4ffd67f_1440w.jpg)
+
 # Hey, I'm Gang Xu! :cherries:
 
 ### About Me

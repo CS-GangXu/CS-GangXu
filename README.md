@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/anime2.gif">
+
+<p align="center">
+  <img width="1060" height="200"  src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/anime2.gif">
+</p>
 
 # Hey, I'm Gang Xu! :cherries:
 

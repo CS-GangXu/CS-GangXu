@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/scene2.jpg">
-
 # Hey, I'm Gang Xu! :cherries:
 
 ### About Me

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/logo2_none.png?token=ADIBASS7KZGXEJ6AOV7C73DANFBFU" width="300" title="hover text">
+  <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/logo2_none.png" width="300" title="hover text">
 </p>
 
 # Hey, I'm Gang Xu! :cat:

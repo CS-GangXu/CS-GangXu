@@ -13,7 +13,7 @@ I am a PhD student at the Media Computing Lab of Nankai University. My research 
 
 ### Paper List
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/method.png?token=ADIBASTKQJJSGWFUCVFDKKLANFCGC" width="350" title="hover text">
+  <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/method.png" width="350">
 </p>
 
 - Temporal Modulation Network for Controllable Space-Time VideoSuper-Resolution. **Gang Xu**, Jun Xu*, Zhen Li, Liang Wang, Xing Sun, Mingming Cheng, Computer Vision and Pattern Recognition (CVPR), 2021. [[PDF](https://www.baidu.com)][[Code](https://www.baidu.com)]

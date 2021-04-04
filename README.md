@@ -10,7 +10,7 @@ I am a PhD student at the Media Computing Lab of Nankai University. My research 
 - 2018.09 -- Now: PhD Student., College of Computer Science, Nankai University.
 - 2014.09 -- 2018.06: B.Sc., School of Telecommunication Engineering, Xidian University.
 
-### Paper
+### Publication
 <p align="center">
   <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/method_cut.png" width="300">
 </p>

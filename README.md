@@ -4,7 +4,6 @@
 
 # Hey, I'm Gang Xu! :cat:
 
-### About Me
 I am a PhD student at the Media Computing Lab of Nankai University. My research interests include Computer Vision and Deep Learning.
 
 ### Education

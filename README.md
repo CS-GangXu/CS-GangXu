@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CS-GangXu/CS-GangXu/main/logo2_none.png?token=ADIBASS7KZGXEJ6AOV7C73DANFBFU" width="300" title="hover text">
+</p>
+
 # Hey, I'm Gang Xu! :cat:
 
 ### About Me
@@ -8,4 +12,12 @@ I am a PhD student at the Media Computing Lab of Nankai University. My research 
 - 2014.09--2018.06: B.Sc., School of Telecommunication Engineering, Xidian University.
 
 ### Paper List
-- Temporal Modulation Network for Controllable Space-Time VideoSuper-Resolution. **Gang Xu**, Jun Xu*, Zhen Li, Liang Wang, Xing Sun, Mingming Cheng, Computer Vision and Pattern Recognition (CVPR), 2021. [[PDF](https://www.baidu.com)][[Code](https://www.baidu.com)]
+<p align="center">
+  <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/cat2.png" width="350" title="hover text">
+</p>
+
+
+
+Temporal Modulation Network for Controllable Space-Time VideoSuper-Resolution. **Gang Xu**, Jun Xu*, Zhen Li, Liang Wang, Xing Sun, Mingming Cheng, Computer Vision and Pattern Recognition (CVPR), 2021. [[PDF](https://www.baidu.com)][[Code](https://www.baidu.com)]
+
+------

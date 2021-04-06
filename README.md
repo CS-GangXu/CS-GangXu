@@ -15,10 +15,10 @@ I am a PhD student at the Media Computing Lab of Nankai University. My research 
   <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/method_cut.png" height="130" width="300">
 </p>
 
-- Temporal Modulation Network for Controllable Space-Time VideoSuper-Resolution. **Gang Xu**, Jun Xu*, Zhen Li, Liang Wang, Xing Sun, Mingming Cheng, IEEE Computer Vision and Pattern Recognition (CVPR), 2021. [[PDF](none)][[Code](https://github.com/CS-GangXu)]
+- Temporal Modulation Network for Controllable Space-Time VideoSuper-Resolution. **Gang Xu**, Jun Xu*, Zhen Li, Liang Wang, Xing Sun, Mingming Cheng, IEEE Computer Vision and Pattern Recognition (CVPR), 2021.
 
 <p align="center">
-  <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/sanet_show4.png" height="130" width="300">
+  <img src="https://github.com/CS-GangXu/CS-GangXu/blob/main/sanet_show7.png" height="130" width="300">
 </p>
 
-- SANet: A Slice-Aware Network for Pulmonary Nodule Detection. Jie Mei, Ming-Ming Cheng*, **Gang Xu**, Lan-Ruo Wan, and Huan Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. [[PDF](https://mftp.mmcheng.net/Papers/21pami-lungNodule.pdf)][[Code](https://github.com/CS-GangXu)]
+- SANet: A Slice-Aware Network for Pulmonary Nodule Detection. Jie Mei, Ming-Ming Cheng*, **Gang Xu**, Lan-Ruo Wan, and Huan Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. [[PDF](https://mftp.mmcheng.net/Papers/21pami-lungNodule.pdf)]
